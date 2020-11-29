@@ -1,5 +1,5 @@
 ## bt-strike - Ruby
-![temporary logo](https://tenor.com/view/ruby-rubies-gem-red-gif-12568444 "bt-strike temporary logo")
+![temporary logo](https://bt-strike.s3-us-west-2.amazonaws.com/images/ruby.gif "bt-strike temporary logo")
 
 A simple ruby script featuring the Twitter API to use a series of JSON files and extract relevnt data to make new tweets vissible in a desired geo location. Highly experimental project. Use at your own risk.
 
