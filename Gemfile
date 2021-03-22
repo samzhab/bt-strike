@@ -1,0 +1,16 @@
+# Copyright (c) 2021 Samuel Y. Ayele
+source 'https://rubygems.org'
+
+gem 'addressable'
+gem 'byebug'
+gem 'json'
+gem 'rest-client'
+gem 'rubocop'
+gem 'wkhtmltopdf'
+gem 'nokogiri'
+gem 'geocoder'
+gem 'progressbar'
+gem 'rubocop-performance'
+gem 'rubocop-rails'
+gem 'tzinfo'
+gem 'webmock'
