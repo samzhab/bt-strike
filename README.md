@@ -8,7 +8,7 @@ A simple ruby script featuring the Twitter API to use a series of JSON files and
 Prerequisites:
 * rvm (rvm.io)
 * ruby interpreter (2.7.0)
-* required gems (see Gemfile)
+* required gems (see Gemfile) - in addition, manually install two gems named 'assign_utc_offsets' and 'utc_time_offset_cities'
 * linux terminal
 
 Current State:
@@ -33,8 +33,8 @@ eg. `$ rvm gemset create person_doesnot_exist`
 `$ gem install bundler`
 * install necessary gems
 `$ bundle`
-* create folder 'persons' for articles saved as pdf
-`$ mkdir persons`
+* create folder 'locations' for available_locations data
+`$ mkdir locations`
 * make script executable
 `$ chmod +x <script_name.rb>`
 * run script
@@ -80,4 +80,3 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
-
